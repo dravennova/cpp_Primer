@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dravennova/cseFolder/c++_Primer",
+      "program": "/Users/dravennova/cseFolder/c++_Primer/build/Debug/outDebug"
+    }
+  ]
+}
